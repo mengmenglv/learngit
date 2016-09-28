@@ -8,9 +8,17 @@ create a new branch is quick and simple
 dfkdsjfkldjfkldjflodify 
 
 dev modify
+<<<<<<< HEAD
 zaici;ldkf
+=======
+zaici;ldk
+>>>>>>> 6c1d53bd10d73be587898246ff3357bae629cb04
 
 
 
 
+<<<<<<< HEAD
 otherkdfjldj
+=======
+d;flksldkf;lsdkff
+>>>>>>> 6c1d53bd10d73be587898246ff3357bae629cb04
