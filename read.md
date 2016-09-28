@@ -1,4 +1,3 @@
-hall ,thilkfgkldfgldjgls is a new file
-kldfjglkdjg`
-
-dlkfjgkldflgdlg
+function a(){
+   console.log("打印a")
+}
