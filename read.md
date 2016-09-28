@@ -1,3 +1,3 @@
-function addd(){
+function master(){
    console.log("打印a")
 }
