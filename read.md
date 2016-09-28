@@ -1,5 +1,5 @@
 git is a version control syste
-dkjkfgit soft is free syste
+ syste
 git has a mutable index stage
 git tracks changes of files
 
